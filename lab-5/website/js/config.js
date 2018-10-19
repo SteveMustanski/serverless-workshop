@@ -1,7 +1,7 @@
 var configConstants = {
-    auth0: {
-        domain: 'YOUR_AUTH0_DOMAIN_HERE',
-        clientId: 'YOUR_AUTH0_CLIENT_ID_HERE'
-    },
-    apiBaseUrl: 'YOUR_API_BASE_URL_HERE_NO_TRAILING_SLASH'
+  auth0: {
+      domain: 'ssm-serverless-lab.auth0.com',
+      clientId: 'VYbKDTqBahzjGcGFE9cN2uZFCksEc9K8'
+  },
+  apiBaseUrl: 'https://gzeu5vmeme.execute-api.us-east-1.amazonaws.com/dev'
 };
