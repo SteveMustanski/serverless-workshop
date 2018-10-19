@@ -1,6 +1,6 @@
 var configConstants = {
     auth0: {
-        domain: 'YOUR_AUTH0_DOMAIN_HERE',
-        clientId: 'YOUR_AUTH0_CLIENT_ID_HERE'
+        domain: 'ssm-serverless-lab.auth0.com',
+        clientId: 'VYbKDTqBahzjGcGFE9cN2uZFCksEc9K8'
     }
 };

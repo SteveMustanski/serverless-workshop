@@ -24,7 +24,7 @@ var userController = {
                 params: {
                     scope: 'openid profile email user_metadata picture'
                 },
-                responseType: 'token'
+                responseType: 'id_token token'
             }
         };
         this.data.auth0Lock = new Auth0Lock(config.auth0.clientId, config.auth0.domain, params);
